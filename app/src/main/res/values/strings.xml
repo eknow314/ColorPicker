@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">ColorPicker</string>
     <string name="title_activity_main">MainActivity</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_home">Circle RGB</string>
+    <string name="title_dashboard">Rectangle HSV</string>
+    <string name="title_notifications">CW</string>
 </resources>
